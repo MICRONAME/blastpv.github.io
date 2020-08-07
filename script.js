@@ -16,7 +16,7 @@ btnCript.addEventListener('click', function(event){
                 var result = MD5(textValue);
                 cript['textCript'].value = result;
             }else if(selectCript.value == 3) {
-                cript['textCript'].value = "функция в разработке";
+                
             }else if(selectCript.value == 4) {
                 cript['textCript'].value = "функция в разработке";
             }else if(selectCript.value == 5) {
